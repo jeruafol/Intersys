@@ -1,0 +1,2 @@
+WARNING: Project gemset is diaspora but you are using ruby-2.1.5
+FATAL: Your bundle is not up to date, run the command "bundle install"
